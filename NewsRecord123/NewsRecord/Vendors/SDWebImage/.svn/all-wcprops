@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/MKAnnotationView+WebCache.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDImageCache.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageDecoder.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/MKAnnotationView+WebCache.m
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageDecoder.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageManager.h
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDImageCache.m
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageManager.m
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageDownloaderOperation.h
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImageView+WebCache.h
+END
+UIImage+WebP.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImage+WebP.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImageView+WebCache.m
+END
+UIImage+WebP.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImage+WebP.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/NSData+ImageContentType.h
+END
+UIView+WebCacheOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIView+WebCacheOperation.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageDownloader.h
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/NSData+ImageContentType.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageDownloader.m
+END
+UIView+WebCacheOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIView+WebCacheOperation.m
+END
+UIImageView+HighlightedWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImageView+HighlightedWebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageCompat.h
+END
+UIImageView+HighlightedWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImageView+HighlightedWebCache.m
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImagePrefetcher.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImage+GIF.h
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImage+MultiFormat.m
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImagePrefetcher.m
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/UIImage+GIF.m
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/our_18_svn/!svn/ver/298/FBI/NewsRecord/NewsRecord/Vendors/SDWebImage/SDWebImageOperation.h
+END
